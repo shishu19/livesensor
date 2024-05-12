@@ -12,5 +12,4 @@ author="shashank",
 author_email="guptashashank814@gmail.com",
 packages=find_packages(),
 install_requires=get_requirements(), #["pymongo"]
-
 )
